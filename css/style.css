@@ -1286,7 +1286,7 @@ color: #980505;
 .banner_section::after {
     content: '';
     position: absolute;
-    background: url(../images/card.png);
+    background: url(https://raw.githubusercontent.com/Thirucjr07/Elitepass/main/images/Card.png);
     background-repeat: no-repeat;
     background-size: contain;
     bottom: -10px;
@@ -1338,7 +1338,7 @@ h3.buy_prt {
 .banner_section::after {
     content: '';
     position: absolute;
-    background: url(../images/card.png);
+    background: url(https://raw.githubusercontent.com/Thirucjr07/Elitepass/main/images/Card.png);
     background-repeat: no-repeat;
     background-size: contain;
     bottom: -10px;
@@ -1351,7 +1351,7 @@ h3.buy_prt {
 .banner_section::after {
     content: '';
     position: absolute;
-    background: url(../images/card.png);
+    background: url(https://raw.githubusercontent.com/Thirucjr07/Elitepass/main/images/Card.png);
     background-repeat: no-repeat;
     background-size: contain;
     bottom: -10px;
