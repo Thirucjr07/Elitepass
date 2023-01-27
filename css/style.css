@@ -196,8 +196,8 @@ section.subscription_sec p {
 .is-active .accordion__toggle {
 	    width:15px;
     height: 15px;
-    border-top: 2px solid #000;
-    border-left: 2px solid #000;
+    border-top: 2px solid #fff;
+    border-left: 2px solid #fff;
     transform: rotate(225deg);
 }
 .is-active .accordion__toggle::before {
@@ -252,8 +252,8 @@ border-radius:67px;
 .accordion__toggle {
     width: 15px;
     height: 15px;
-    border-top: 2px solid #000;
-    border-left: 2px solid #000;
+    border-top: 2px solid #fff;
+    border-left: 2px solid #fff;
     transform: rotate(135deg);
 	    margin-right: 15px;
 
